@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ertan CANYURT</h1>
-<h3 align="center">I'm a Software Engineering student (3rd) at Karadeniz Technical University</h3>
+<h3 align="center">I'm a Software Engineering student (4rd) at Karadeniz Technical University</h3>
 
 - 🌱 I’m currently learning **C#, JavaScript, Azure, Python**
 
